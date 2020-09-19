@@ -1,0 +1,44 @@
+{
+  "name": "mem----",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii-art": "^2.5.0",
+    "async-limiter": "^2.0.0",
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "figlet": "^1.5.0",
+    "lodash": "^4.17.20",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "long": "^4.0.0",
+    "parse-ms": "^2.1.0",
+    "prism-media": "^1.2.2",
+    "quick.db": "^7.1.1",
+    "quick.hook": "^1.5.1",
+    "safe-buffer": "^5.2.1",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "sqlite3": "^5.0.0",
+    "superagent": "^6.1.0",
+    "table": "^6.0.2",
+    "tweetnacl": "^1.0.3",
+    "weather-js": "^2.0.0",
+    "ws": "^7.3.1",
+    "ytdl-core": "^3.2.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
